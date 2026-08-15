@@ -1,0 +1,9 @@
+May 14 06:25:01 server sshd[1243]: Failed password for root from 192.168.1.105 port 53214 ssh2
+May 14 06:26:12 server sshd[1248]: Failed password for invalid user admin from 185.220.101.5 port 44321 ssh2
+May 14 06:27:03 server sshd[1250]: Accepted publickey for ubuntu from 10.0.0.15 port 39822 ssh2
+May 14 06:28:44 server ufw[1280]: [UFW BLOCK] IN=eth0 OUT= SRC=45.33.32.156 DST=10.0.0.5 PROTO=TCP SPT=55123 DPT=22
+May 14 06:29:10 server sshd[1299]: Failed password for root from 172.16.4.22 port 49201 ssh2
+May 14 06:30:15 server nginx[1301]: 8.8.8.8 - - [14/May/2026:06:30:15 +0000] "GET /admin HTTP/1.1" 401 142
+May 14 06:31:02 server sshd[1315]: Failed password for invalid user test from 198.51.100.12 port 58912 ssh2
+May 14 06:32:45 server ufw[1320]: [UFW BLOCK] IN=eth0 OUT= SRC=1.1.1.1 DST=10.0.0.5 PROTO=TCP SPT=41290 DPT=80
+May 14 06:33:00 server sshd[1322]: Failed password for root from 172.31.255.1 port 51200 ssh2
